@@ -12,8 +12,8 @@ Test accuracy: 91.0% (Cracked recall: 64.3%, precision: 72.3%).
 SDNET2018 (Kaggle), Bridge Deck (D) subset only — Cracked vs Non-cracked.
 
 ## Live app
-[paste your streamlit.app URL here after deployment]
+https://cv3-concrete-bridge-deck-crack-detector-le2evsiv54r6fdtyahi5ri.streamlit.app/
 
 ## Team
-- UDUAKOBONG, JAMES (22/EG/CV/1) — Knoxville10806
+- UDO, UDUAKOBONG JAMES (22/EG/CV/1) — Knoxville10806
 - 
