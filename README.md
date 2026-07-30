@@ -15,5 +15,5 @@ SDNET2018 (Kaggle), Bridge Deck (D) subset only — Cracked vs Non-cracked.
 https://cv3-concrete-bridge-deck-crack-detector-le2evsiv54r6fdtyahi5ri.streamlit.app/
 
 ## Team
-- UDO, UDUAKOBONG JAMES (22/EG/CV/1) — Knoxville10806
+- UDO, UDUAKOBONG JAMES (22/EG/CV/1411) — Knoxville10806
 - 
