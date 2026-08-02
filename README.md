@@ -16,4 +16,4 @@ https://cv3-concrete-bridge-deck-crack-detector-le2evsiv54r6fdtyahi5ri.streamlit
 
 ## Team
 - UDO, UDUAKOBONG JAMES (22/EG/CV/1411) — Knoxville10806
-- 
+- CLEMENT EMMANUEL JOSEPH (22/EG/CV/1451) - Clemzy1112
